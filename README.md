@@ -1,4 +1,8 @@
 # MOSS
+![Build Status](https://github.com/manorajesh/moss/actions/workflows/rust.yml/badge.svg)
+![Lines of code](https://img.shields.io/tokei/lines/github/manorajesh/moss)
+![GitHub](https://img.shields.io/github/license/manorajesh/moss)
+
 Minimal kernal that plays Tetris at boot. All built with Rust
 
 ## Installation
